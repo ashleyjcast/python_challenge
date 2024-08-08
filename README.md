@@ -1,5 +1,7 @@
 # python_challenge
 Module 3 Challenge
-
-
-Hi
+Tutoring services for github usage and cloning personal repo
+Collaborated with peers for profit increase/decrease in PyBank
+Created path by referencing prior assisgnment read_csv_solution
+ChatGPT to debug code and create output path for text file
+Xpert for debugging code and sourcing formulas
